@@ -1,0 +1,13 @@
+{
+    "name": "ApplicationApi",
+    "alias": "applicationapi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ApplicationApi\\Providers\\ApplicationApiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,10 @@
+{
+    "UserModule": true,
+    "Admin": true,
+    "Place": true,
+    "Cat": true,
+    "User": true,
+    "Auth": true,
+    "ToDo": true,
+    "ApplicationApi": true
+}
